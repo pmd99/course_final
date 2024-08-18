@@ -3,7 +3,7 @@ name: User Story
 about: template to create user stories
 title: ''
 labels: ''
-assignees: pmd99
+assignees: ''
 
 ---
 
